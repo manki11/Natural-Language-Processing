@@ -6,4 +6,5 @@ Pre processing Data:
 2. Stop Words: Getting rid of useless words
 3. Stemming: Converting all words into similar tense
 4. Spech Tagging: Making tuples of words with their tags(nouns, adverbs, adjectives)
+5. Chunking: Grouping of similar grammar together
 
