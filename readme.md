@@ -10,4 +10,5 @@ Pre processing Data:
 6. Chunking: Grouping of similar grammar together
 7. Chinking: Grouping of similar grammar together by selecting all and removing certain kind out.
 8. Named Entity Recognition: Alternative to chunking/chinking.
+9. Wordnet: To find synonyms/ antonyms/ meanings of words. Also used to find similarities between words.
 
